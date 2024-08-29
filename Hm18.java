@@ -9,7 +9,7 @@ class Hm18
 			{
 				System.out.print(j);
 			}
-		System.out.println();
+			System.out.println();
+		}
 	}
-}
 }

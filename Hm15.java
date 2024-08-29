@@ -1,11 +1,11 @@
-class Hm15
+class Practice
 {
 	public static void main(String args[])
 	{
-		int n=10;
-		for(int i=1;i<=n;i++)
+		int n=5;
+		for(int i=n;i>=1;i--)
 		{
-			for(int j=n;j>=i;j--)
+			for(int j=i;j<=n;j++)
 			{
 				System.out.print(i);
 			}

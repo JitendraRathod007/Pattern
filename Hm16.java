@@ -1,4 +1,4 @@
-class Hm16
+class Practice
 {
 	public static void main(String args[])
 	{
